@@ -14,6 +14,7 @@ import javax.inject.Inject
 class MainRepoImpl() {
     private lateinit var scanner: GmsBarcodeScanner
 
+    //Main repo
     fun startScanning(context: Context): Flow<String?> {
         val options =
             GmsBarcodeScannerOptions.Builder()
