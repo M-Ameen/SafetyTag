@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SafetyTag</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phonenno">Phone No</string>
+    <string name="submit">Submit</string>
+    <string name="generate">Generate</string>
+    <string name="send_alert">Send Alert</string>
+    <string name="create_tag">Tag Car</string>
+    <string name="carlocation">Save Location</string>
+    <string name="verifyotp">Verify OTP</string>
+    <string name="enterotp">OTP</string>
+    <string name="carname">Car Name</string>
+    <string name="carcolor">Car Color</string>
+    <string name="carregno">Reg No</string>
+    <string name="carissue">Car Issue</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">LogIn</string>
+    <string name="you_already_have_an_account_logIn">You already have an account? <font color="#702FDB">SignUp</font> </string>
+</resources>
